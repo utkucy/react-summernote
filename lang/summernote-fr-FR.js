@@ -153,7 +153,7 @@
     /******/ {
       /***/ 18: /***/ function (module, exports) {
         (function ($) {
-          window.$.extend($.summernote.lang, {
+          $.extend($.summernote.lang, {
             "fr-FR": {
               font: {
                 bold: "Gras",
@@ -308,7 +308,7 @@
               },
             },
           });
-        })(window.jQuery);
+        })(jQuery);
 
         /***/
       },

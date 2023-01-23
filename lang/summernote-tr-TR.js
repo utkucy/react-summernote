@@ -153,7 +153,7 @@
     /******/ {
       /***/ 44: /***/ function (module, exports) {
         (function ($) {
-          window.$.extend($.summernote.lang, {
+          $.extend($.summernote.lang, {
             "tr-TR": {
               font: {
                 bold: "Kalın",
@@ -314,7 +314,7 @@
               },
             },
           });
-        })(window.jQuery);
+        })(jQuery);
 
         /***/
       },
