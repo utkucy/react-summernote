@@ -314,7 +314,7 @@
               },
             },
           });
-        })(windows.jQuery);
+        })(window.jQuery);
 
         /***/
       },
