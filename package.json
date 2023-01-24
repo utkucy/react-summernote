@@ -1,6 +1,6 @@
 {
   "name": "react-summernote",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "description": "Summernote (Super simple WYSIWYG editor) adaptation for react",
   "main": "./dist/react-summernote.js",
   "repository": {
@@ -31,7 +31,6 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "codemirror": "^5.26.0",
-    "popper.js": "^1.16.1",
     "prop-types": "^15.5.10",
     "summernote": "^0.8.15"
   },
