@@ -31,11 +31,12 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "codemirror": "^5.26.0",
+    "popper.js": "^1.16.1",
     "prop-types": "^15.5.10",
     "summernote": "^0.8.15"
   },
   "peerDependencies": {
-    "bootstrap": "^3.3.6",
+    "bootstrap": "4.6",
     "jquery": "^2.2.0 || ^3.0.0",
     "react": "^18.0.0",
     "react-dom": "*"
